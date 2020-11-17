@@ -59,6 +59,10 @@ height:min-content;
 
   h2{
       color:#0B49EA;
+      background-color: yellow;
+      text-align: center;
+      font-family:IM FELL Double Pica;
+      font-size: 24px;
       /* text-decoration: underline; */
 
   }
