@@ -49,15 +49,21 @@ height:min-content;
   .cby{
     border:2px solid red;
     margin-right:70rem;
+    display:inline block;
   }
+  #member{
+    border-radius: 50%;
+    height: 200px;
+    width: 200px;
+  }
+
   h2{
       color:#0B49EA;
-      text-decoration: underline;
+      /* text-decoration: underline; */
 
   }
   .footer{
     background-color:#C4C4C4;
     display: inline;
-    /* display: flex;
-    flex-direction: row; */
+    word-spacing: 20px;
   }
