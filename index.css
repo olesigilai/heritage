@@ -56,6 +56,11 @@ height:min-content;
     height: 200px;
     width: 200px;
   }
+  #member2{
+    border-radius: 50%;
+    height: 200px;
+    width: 200px;
+  }
 
   h2{
       color:#0B49EA;
