@@ -1,0 +1,35 @@
+h1{
+    background-color: #C4C4C4;
+    color: #FB0101;
+    text-shadow: 1px;
+    border: 6%;
+    text-decoration: underline;
+    font-style: normal;
+    font-size: 36px;
+    font-family: IM FELL Double Pica;
+}
+.nav {
+color: #F40909;
+background-color: #FDD9D9;
+font-size: 12px;
+
+}
+
+.nav li {
+    display: inline-block;
+    font-size: 20px;
+    padding: 20px;
+    justify-content: center;
+    color: red
+  }
+  #staff{
+    height: 200px;
+    width: 50%;
+    display: inline-block;
+    display: flex;
+
+  }
+  h2{
+      color:#0B49EA;
+
+  }
