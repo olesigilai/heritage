@@ -1,0 +1,47 @@
+h1{
+    color: green;
+    text-align: center;
+
+}
+
+.contacts {
+    background-image: url("images/call-512.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+    height: 50%;
+}
+
+table, th, td {
+    background-color: yellow;
+    border: 1px solid rgb(14, 13, 13);
+    color: blue;
+    border-collapse: collapse;
+    font-size: 36px;
+}
+
+.nav {
+    color: #F40909;
+    background-color: #FDD9D9;
+    font-size: 12px;
+    float: right;
+    width: 100%;
+}
+
+.nav li {
+    display: inline;
+    font-size: 20px;
+    padding: 20px;
+    color: red;
+    float: right;
+}
+
+.footer {
+    background-color: #BBAACC;
+    height: 40px;
+    color: blue;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+}
