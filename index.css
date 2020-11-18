@@ -47,9 +47,15 @@ height:min-content;
     width: 200px;
   }
   .cby{
-    border:2px solid red;
-    margin-right:70rem;
-    display:inline block;
+    /* border:2px solid red; */
+    display:inline-flex;
+  }
+  .cby img{
+    margin-left: 14rem;
+  }
+  .cby p{
+    margin-left: 17rem;
+    font-weight: bold;
   }
   #member{
     border-radius: 50%;
@@ -72,7 +78,6 @@ height:min-content;
 
   }
   .footer{
-    background-color:#C4C4C4;
-    display: inline;
-    word-spacing: 20px;
+    background-color:grey;
+    height: 25px;
   }
