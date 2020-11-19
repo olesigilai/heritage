@@ -1,11 +1,13 @@
 body{
-    background-image: url('./images/elephant.jpeg');
+    /* background-image: url('images/comps.jpeg'); */
     background-repeat: no-repeat;
     background-size: cover;
     text-align: center;
     font-size: 18px;
     font-style: italic;
     font-weight: bold;
+    background-color: yellow;
+    
 }
 
 .nav {
@@ -14,6 +16,8 @@ background-color: #FDD9D9;
 font-size: 12px;
 float: right;
 width: 100%;
+font-weight: bold;
+
 
 }
 
@@ -23,10 +27,13 @@ width: 100%;
     padding: 20px;
     color: red;
     float: right;
+    text-decoration: none;
+    font-weight: bold;
 
 }
 a:link{
   text-decoration: none;
+  font-weight: bold;
 
 }
 .footer{

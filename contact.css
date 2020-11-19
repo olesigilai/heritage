@@ -5,11 +5,13 @@ h1{
 }
 
 .contacts {
-    background-image: url("images/call-512.png");
+    /* background-image: url("images/call-512.png");
     background-repeat: no-repeat;
-    background-size: contain;
+    background-size: 50px 100px; */
     background-position: center;
     height: 50%;
+   
+
 }
 
 table, th, td {
@@ -19,6 +21,10 @@ table, th, td {
     border-collapse: collapse;
     font-size: 36px;
 }
+.fb{
+    color: green;
+    font-weight: bold;
+}
 
 .nav {
     color: #F40909;
@@ -26,6 +32,12 @@ table, th, td {
     font-size: 12px;
     float: right;
     width: 100%;
+    font-weight: bold;
+    background-image: url("images/call-512.png");
+    /* background-position: center bottom; */
+    background-size: contain;
+    background-repeat: no-repeat;
+    
 }
 
 .nav li {
@@ -34,8 +46,18 @@ table, th, td {
     padding: 20px;
     color: red;
     float: right;
+    text-decoration: none;
 }
-
+a:link{
+  text-decoration: none;
+}
+.fb{
+    background-image: url("images/igft.jpeg");
+    background-position: center right;
+    background-repeat: no-repeat;
+    text-align: left;
+    /* display: inline flex; */
+}
 .footer {
     background-color: #BBAACC;
     height: 40px;
