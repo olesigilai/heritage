@@ -34,20 +34,12 @@ width: 100%;
 height:min-content;
 
 }
-  /* #staff{
-    width: min-content;
-    display: inline-block;
-    border-radius: 50%;
-    background-color: white; */
-
-  /* } */
-  #staff{
+   #staff{
     border-radius: 50%;
     height: 200px;
     width: 200px;
   }
   .cby{
-    /* border:2px solid red; */
     display:inline-flex;
     background-color:#E5E5E5;
     width: 100%;
@@ -59,7 +51,6 @@ height:min-content;
     margin-left: 17rem;
     font-weight: bold;
     background-color:#E5E5E5;
-    background-color:;
     color: blue;
   }
   #member{

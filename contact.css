@@ -34,7 +34,6 @@ table, th, td {
     width: 100%;
     font-weight: bold;
     background-image: url("images/call-512.png");
-    /* background-position: center bottom; */
     background-size: contain;
     background-repeat: no-repeat;
     
@@ -56,8 +55,7 @@ a:link{
     background-position: center right;
     background-repeat: no-repeat;
     text-align: left;
-    /* display: inline flex; */
-}
+    }
 .footer {
     background-color: #BBAACC;
     height: 40px;
