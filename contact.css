@@ -22,7 +22,7 @@ table, th, td {
     font-size: 36px;
 }
 .fb{
-    color: green;
+    color: rgb(201, 34, 62);
     font-weight: bold;
 }
 
@@ -36,7 +36,9 @@ table, th, td {
     background-image: url("images/call-512.png");
     background-size: contain;
     background-repeat: no-repeat;
-    
+    margin-right: -1rem;
+    margin-top: -1rem;
+    padding-left: 1.5rem;
 }
 
 .nav li {
@@ -47,12 +49,18 @@ table, th, td {
     float: right;
     text-decoration: none;
 }
+span{
+    color: black;
+    
+
+
+}
 a:link{
   text-decoration: none;
 }
 .fb{
     background-image: url("images/igft.jpeg");
-    background-position: center right;
+    background-position: right;
     background-repeat: no-repeat;
     text-align: left;
     }
